@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Old BareFaced backups
+BareFaced10/
+BareFaced11/
+BareFaced 2.xcodeproj/
+
+# Old loose images / duplicates
+Profile picture copy.png
+Profile picture.png
+WOW.png
+bfbf.jpeg
+brows Small.png
+download1-removebg-preview (3).png
+download1-removebg-preview (3)_ccexpress.png
+image13-1920w.webp
+million.png
+million.webp
