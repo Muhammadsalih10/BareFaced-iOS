@@ -4,6 +4,21 @@ BareFaced is an iOS beauty booking application built using Swift and SwiftUI.
 
 The app was designed around a real-world beauty clinic use case and allows customers to browse treatments, view prices, book appointments, manage bookings and explore a treatment gallery.
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="180" alt="BareFaced Home Screen">
+  <img src="screenshots/prices.png" width="180" alt="BareFaced Prices Screen">
+  <img src="screenshots/booking.png" width="180" alt="BareFaced Booking Screen">
+</p>
+
+<p align="center">
+  <img src="screenshots/my-booking.png" width="180" alt="BareFaced My Bookings Screen">
+  <img src="screenshots/gallery.png" width="180" alt="BareFaced Gallery Screen">
+  <img src="screenshots/chatbot.png" width="180" alt="BareFaced Chatbot Screen">
+</p>
+
+
 ## Features
 
 - Appointment booking
